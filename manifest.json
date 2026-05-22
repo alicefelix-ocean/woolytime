@@ -1,0 +1,16 @@
+{
+  "name": "Woolytime",
+  "short_name": "Woolytime",
+  "description": "A cozy Pomodoro timer with Wooly the sheep",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f7e6",
+  "theme_color": "#7bc4dc",
+  "icons": [
+    {
+      "src": "https://fav.farm/🐑",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
